@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/www.linkedin.com/in/kauan-maia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yMaia197">
-  <img src="https://img.shields.io/badge/GitHub-yMaia197-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/KMaiaDev">
+  <img src="https://img.shields.io/badge/GitHub-KMaiaDev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
