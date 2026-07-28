@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Desenvolvedor de Software | Backend | Banco de Dados | Automação
+### Frontend Developer | JavaScript, HTML, CSS e React | Conhecimentos em Node.js e Banco de Dados | ADS na UNIP
 
 <a href="kauan.kmaia@gmail.com">
   <img src="https://img.shields.io/badge/kauan.kmaia@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
