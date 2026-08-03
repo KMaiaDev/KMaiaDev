@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="COLOQUE_SEU_LINKEDIN_AQUI">
+<a href="https://www.linkedin.com/in/kauan-maia/">
   <img src="https://img.shields.io/badge/LinkedIn-Kauan%20Maia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
